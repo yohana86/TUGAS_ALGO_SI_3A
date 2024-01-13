@@ -1,0 +1,12 @@
+C:\Users\arjun\source\repos\Program Belanja Sederhana\Program Belanja Sederhana\obj\Debug\Program Belanja Sederhana.vbproj.AssemblyReference.cache
+C:\Users\arjun\source\repos\Program Belanja Sederhana\Program Belanja Sederhana\obj\Debug\Program_Belanja_Sederhana.Form1.resources
+C:\Users\arjun\source\repos\Program Belanja Sederhana\Program Belanja Sederhana\obj\Debug\Program_Belanja_Sederhana.Resources.resources
+C:\Users\arjun\source\repos\Program Belanja Sederhana\Program Belanja Sederhana\obj\Debug\Program Belanja Sederhana.vbproj.GenerateResource.cache
+C:\Users\arjun\source\repos\Program Belanja Sederhana\Program Belanja Sederhana\obj\Debug\Program Belanja Sederhana.vbproj.CoreCompileInputs.cache
+C:\Users\arjun\source\repos\Program Belanja Sederhana\Program Belanja Sederhana\bin\Debug\Program Belanja Sederhana.exe.config
+C:\Users\arjun\source\repos\Program Belanja Sederhana\Program Belanja Sederhana\bin\Debug\Program Belanja Sederhana.exe
+C:\Users\arjun\source\repos\Program Belanja Sederhana\Program Belanja Sederhana\bin\Debug\Program Belanja Sederhana.pdb
+C:\Users\arjun\source\repos\Program Belanja Sederhana\Program Belanja Sederhana\bin\Debug\Program Belanja Sederhana.xml
+C:\Users\arjun\source\repos\Program Belanja Sederhana\Program Belanja Sederhana\obj\Debug\Program Belanja Sederhana.exe
+C:\Users\arjun\source\repos\Program Belanja Sederhana\Program Belanja Sederhana\obj\Debug\Program Belanja Sederhana.xml
+C:\Users\arjun\source\repos\Program Belanja Sederhana\Program Belanja Sederhana\obj\Debug\Program Belanja Sederhana.pdb

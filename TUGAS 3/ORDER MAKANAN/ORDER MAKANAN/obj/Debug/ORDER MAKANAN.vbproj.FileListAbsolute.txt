@@ -1,0 +1,12 @@
+C:\Users\arjun\source\repos\ORDER MAKANAN\ORDER MAKANAN\obj\Debug\ORDER MAKANAN.vbproj.AssemblyReference.cache
+C:\Users\arjun\source\repos\ORDER MAKANAN\ORDER MAKANAN\obj\Debug\ORDER_MAKANAN.Form1.resources
+C:\Users\arjun\source\repos\ORDER MAKANAN\ORDER MAKANAN\obj\Debug\ORDER_MAKANAN.Resources.resources
+C:\Users\arjun\source\repos\ORDER MAKANAN\ORDER MAKANAN\obj\Debug\ORDER MAKANAN.vbproj.GenerateResource.cache
+C:\Users\arjun\source\repos\ORDER MAKANAN\ORDER MAKANAN\obj\Debug\ORDER MAKANAN.vbproj.CoreCompileInputs.cache
+C:\Users\arjun\source\repos\ORDER MAKANAN\ORDER MAKANAN\bin\Debug\ORDER MAKANAN.exe.config
+C:\Users\arjun\source\repos\ORDER MAKANAN\ORDER MAKANAN\bin\Debug\ORDER MAKANAN.exe
+C:\Users\arjun\source\repos\ORDER MAKANAN\ORDER MAKANAN\bin\Debug\ORDER MAKANAN.pdb
+C:\Users\arjun\source\repos\ORDER MAKANAN\ORDER MAKANAN\bin\Debug\ORDER MAKANAN.xml
+C:\Users\arjun\source\repos\ORDER MAKANAN\ORDER MAKANAN\obj\Debug\ORDER MAKANAN.exe
+C:\Users\arjun\source\repos\ORDER MAKANAN\ORDER MAKANAN\obj\Debug\ORDER MAKANAN.xml
+C:\Users\arjun\source\repos\ORDER MAKANAN\ORDER MAKANAN\obj\Debug\ORDER MAKANAN.pdb
