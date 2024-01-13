@@ -1,0 +1,12 @@
+C:\Users\arjun\source\repos\Hitung Nilai Akhir\Hitung Nilai Akhir\bin\Debug\Hitung Nilai Akhir.exe.config
+C:\Users\arjun\source\repos\Hitung Nilai Akhir\Hitung Nilai Akhir\bin\Debug\Hitung Nilai Akhir.exe
+C:\Users\arjun\source\repos\Hitung Nilai Akhir\Hitung Nilai Akhir\bin\Debug\Hitung Nilai Akhir.pdb
+C:\Users\arjun\source\repos\Hitung Nilai Akhir\Hitung Nilai Akhir\bin\Debug\Hitung Nilai Akhir.xml
+C:\Users\arjun\source\repos\Hitung Nilai Akhir\Hitung Nilai Akhir\obj\Debug\Hitung Nilai Akhir.vbproj.AssemblyReference.cache
+C:\Users\arjun\source\repos\Hitung Nilai Akhir\Hitung Nilai Akhir\obj\Debug\Hitung_Nilai_Akhir.Form1.resources
+C:\Users\arjun\source\repos\Hitung Nilai Akhir\Hitung Nilai Akhir\obj\Debug\Hitung_Nilai_Akhir.Resources.resources
+C:\Users\arjun\source\repos\Hitung Nilai Akhir\Hitung Nilai Akhir\obj\Debug\Hitung Nilai Akhir.vbproj.GenerateResource.cache
+C:\Users\arjun\source\repos\Hitung Nilai Akhir\Hitung Nilai Akhir\obj\Debug\Hitung Nilai Akhir.vbproj.CoreCompileInputs.cache
+C:\Users\arjun\source\repos\Hitung Nilai Akhir\Hitung Nilai Akhir\obj\Debug\Hitung Nilai Akhir.exe
+C:\Users\arjun\source\repos\Hitung Nilai Akhir\Hitung Nilai Akhir\obj\Debug\Hitung Nilai Akhir.xml
+C:\Users\arjun\source\repos\Hitung Nilai Akhir\Hitung Nilai Akhir\obj\Debug\Hitung Nilai Akhir.pdb

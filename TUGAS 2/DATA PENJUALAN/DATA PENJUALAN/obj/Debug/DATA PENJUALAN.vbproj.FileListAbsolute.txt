@@ -1,0 +1,12 @@
+C:\Users\arjun\source\repos\DATA PENJUALAN\DATA PENJUALAN\bin\Debug\DATA PENJUALAN.exe.config
+C:\Users\arjun\source\repos\DATA PENJUALAN\DATA PENJUALAN\bin\Debug\DATA PENJUALAN.exe
+C:\Users\arjun\source\repos\DATA PENJUALAN\DATA PENJUALAN\bin\Debug\DATA PENJUALAN.pdb
+C:\Users\arjun\source\repos\DATA PENJUALAN\DATA PENJUALAN\bin\Debug\DATA PENJUALAN.xml
+C:\Users\arjun\source\repos\DATA PENJUALAN\DATA PENJUALAN\obj\Debug\DATA PENJUALAN.vbproj.AssemblyReference.cache
+C:\Users\arjun\source\repos\DATA PENJUALAN\DATA PENJUALAN\obj\Debug\DATA_PENJUALAN.Form1.resources
+C:\Users\arjun\source\repos\DATA PENJUALAN\DATA PENJUALAN\obj\Debug\DATA_PENJUALAN.Resources.resources
+C:\Users\arjun\source\repos\DATA PENJUALAN\DATA PENJUALAN\obj\Debug\DATA PENJUALAN.vbproj.GenerateResource.cache
+C:\Users\arjun\source\repos\DATA PENJUALAN\DATA PENJUALAN\obj\Debug\DATA PENJUALAN.vbproj.CoreCompileInputs.cache
+C:\Users\arjun\source\repos\DATA PENJUALAN\DATA PENJUALAN\obj\Debug\DATA PENJUALAN.exe
+C:\Users\arjun\source\repos\DATA PENJUALAN\DATA PENJUALAN\obj\Debug\DATA PENJUALAN.xml
+C:\Users\arjun\source\repos\DATA PENJUALAN\DATA PENJUALAN\obj\Debug\DATA PENJUALAN.pdb

@@ -1,0 +1,12 @@
+C:\Users\arjun\source\repos\tampilkan\tampilkan\bin\Debug\tampilkan.exe.config
+C:\Users\arjun\source\repos\tampilkan\tampilkan\bin\Debug\tampilkan.exe
+C:\Users\arjun\source\repos\tampilkan\tampilkan\bin\Debug\tampilkan.pdb
+C:\Users\arjun\source\repos\tampilkan\tampilkan\bin\Debug\tampilkan.xml
+C:\Users\arjun\source\repos\tampilkan\tampilkan\obj\Debug\tampilkan.vbproj.AssemblyReference.cache
+C:\Users\arjun\source\repos\tampilkan\tampilkan\obj\Debug\tampilkan.Form1.resources
+C:\Users\arjun\source\repos\tampilkan\tampilkan\obj\Debug\tampilkan.Resources.resources
+C:\Users\arjun\source\repos\tampilkan\tampilkan\obj\Debug\tampilkan.vbproj.GenerateResource.cache
+C:\Users\arjun\source\repos\tampilkan\tampilkan\obj\Debug\tampilkan.vbproj.CoreCompileInputs.cache
+C:\Users\arjun\source\repos\tampilkan\tampilkan\obj\Debug\tampilkan.exe
+C:\Users\arjun\source\repos\tampilkan\tampilkan\obj\Debug\tampilkan.xml
+C:\Users\arjun\source\repos\tampilkan\tampilkan\obj\Debug\tampilkan.pdb
