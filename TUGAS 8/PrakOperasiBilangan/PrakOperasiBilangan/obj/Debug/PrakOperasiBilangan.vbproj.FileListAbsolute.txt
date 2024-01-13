@@ -1,0 +1,12 @@
+C:\Users\arjun\source\repos\PrakOperasiBilangan\PrakOperasiBilangan\bin\Debug\PrakOperasiBilangan.exe.config
+C:\Users\arjun\source\repos\PrakOperasiBilangan\PrakOperasiBilangan\bin\Debug\PrakOperasiBilangan.exe
+C:\Users\arjun\source\repos\PrakOperasiBilangan\PrakOperasiBilangan\bin\Debug\PrakOperasiBilangan.pdb
+C:\Users\arjun\source\repos\PrakOperasiBilangan\PrakOperasiBilangan\bin\Debug\PrakOperasiBilangan.xml
+C:\Users\arjun\source\repos\PrakOperasiBilangan\PrakOperasiBilangan\obj\Debug\PrakOperasiBilangan.vbproj.AssemblyReference.cache
+C:\Users\arjun\source\repos\PrakOperasiBilangan\PrakOperasiBilangan\obj\Debug\PrakOperasiBilangan.Form1.resources
+C:\Users\arjun\source\repos\PrakOperasiBilangan\PrakOperasiBilangan\obj\Debug\PrakOperasiBilangan.Resources.resources
+C:\Users\arjun\source\repos\PrakOperasiBilangan\PrakOperasiBilangan\obj\Debug\PrakOperasiBilangan.vbproj.GenerateResource.cache
+C:\Users\arjun\source\repos\PrakOperasiBilangan\PrakOperasiBilangan\obj\Debug\PrakOperasiBilangan.vbproj.CoreCompileInputs.cache
+C:\Users\arjun\source\repos\PrakOperasiBilangan\PrakOperasiBilangan\obj\Debug\PrakOperasiBilangan.exe
+C:\Users\arjun\source\repos\PrakOperasiBilangan\PrakOperasiBilangan\obj\Debug\PrakOperasiBilangan.xml
+C:\Users\arjun\source\repos\PrakOperasiBilangan\PrakOperasiBilangan\obj\Debug\PrakOperasiBilangan.pdb

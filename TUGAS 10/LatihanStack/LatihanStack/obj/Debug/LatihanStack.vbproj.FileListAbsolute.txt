@@ -1,0 +1,21 @@
+E:\ana\Pertemuan 12 071223\LatihanStack\LatihanStack\bin\Debug\LatihanStack.exe
+E:\ana\Pertemuan 12 071223\LatihanStack\LatihanStack\bin\Debug\LatihanStack.pdb
+E:\ana\Pertemuan 12 071223\LatihanStack\LatihanStack\bin\Debug\LatihanStack.xml
+E:\ana\Pertemuan 12 071223\LatihanStack\LatihanStack\obj\Debug\ResolveAssemblyReference.cache
+E:\ana\Pertemuan 12 071223\LatihanStack\LatihanStack\obj\Debug\LatihanStack.Form1.resources
+E:\ana\Pertemuan 12 071223\LatihanStack\LatihanStack\obj\Debug\LatihanStack.Resources.resources
+E:\ana\Pertemuan 12 071223\LatihanStack\LatihanStack\obj\Debug\LatihanStack.vbproj.GenerateResource.Cache
+E:\ana\Pertemuan 12 071223\LatihanStack\LatihanStack\obj\Debug\LatihanStack.exe
+E:\ana\Pertemuan 12 071223\LatihanStack\LatihanStack\obj\Debug\LatihanStack.xml
+E:\ana\Pertemuan 12 071223\LatihanStack\LatihanStack\obj\Debug\LatihanStack.pdb
+C:\Users\arjun\source\repos\Pertemuan 12 071223\TUGAS PERTEMUAN 12 (071223)\LatihanStack\LatihanStack\bin\Debug\LatihanStack.exe
+C:\Users\arjun\source\repos\Pertemuan 12 071223\TUGAS PERTEMUAN 12 (071223)\LatihanStack\LatihanStack\bin\Debug\LatihanStack.pdb
+C:\Users\arjun\source\repos\Pertemuan 12 071223\TUGAS PERTEMUAN 12 (071223)\LatihanStack\LatihanStack\bin\Debug\LatihanStack.xml
+C:\Users\arjun\source\repos\Pertemuan 12 071223\TUGAS PERTEMUAN 12 (071223)\LatihanStack\LatihanStack\obj\Debug\LatihanStack.vbproj.AssemblyReference.cache
+C:\Users\arjun\source\repos\Pertemuan 12 071223\TUGAS PERTEMUAN 12 (071223)\LatihanStack\LatihanStack\obj\Debug\LatihanStack.Form1.resources
+C:\Users\arjun\source\repos\Pertemuan 12 071223\TUGAS PERTEMUAN 12 (071223)\LatihanStack\LatihanStack\obj\Debug\LatihanStack.Resources.resources
+C:\Users\arjun\source\repos\Pertemuan 12 071223\TUGAS PERTEMUAN 12 (071223)\LatihanStack\LatihanStack\obj\Debug\LatihanStack.vbproj.GenerateResource.cache
+C:\Users\arjun\source\repos\Pertemuan 12 071223\TUGAS PERTEMUAN 12 (071223)\LatihanStack\LatihanStack\obj\Debug\LatihanStack.vbproj.CoreCompileInputs.cache
+C:\Users\arjun\source\repos\Pertemuan 12 071223\TUGAS PERTEMUAN 12 (071223)\LatihanStack\LatihanStack\obj\Debug\LatihanStack.exe
+C:\Users\arjun\source\repos\Pertemuan 12 071223\TUGAS PERTEMUAN 12 (071223)\LatihanStack\LatihanStack\obj\Debug\LatihanStack.xml
+C:\Users\arjun\source\repos\Pertemuan 12 071223\TUGAS PERTEMUAN 12 (071223)\LatihanStack\LatihanStack\obj\Debug\LatihanStack.pdb
