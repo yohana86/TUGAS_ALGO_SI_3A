@@ -1,0 +1,12 @@
+C:\Users\arjun\source\repos\ARRAY MULTI DIMENSI\ARRAY MULTI DIMENSI\obj\Debug\ARRAY MULTI DIMENSI.vbproj.AssemblyReference.cache
+C:\Users\arjun\source\repos\ARRAY MULTI DIMENSI\ARRAY MULTI DIMENSI\obj\Debug\ARRAY_MULTI_DIMENSI.Form1.resources
+C:\Users\arjun\source\repos\ARRAY MULTI DIMENSI\ARRAY MULTI DIMENSI\obj\Debug\ARRAY_MULTI_DIMENSI.Resources.resources
+C:\Users\arjun\source\repos\ARRAY MULTI DIMENSI\ARRAY MULTI DIMENSI\obj\Debug\ARRAY MULTI DIMENSI.vbproj.GenerateResource.cache
+C:\Users\arjun\source\repos\ARRAY MULTI DIMENSI\ARRAY MULTI DIMENSI\obj\Debug\ARRAY MULTI DIMENSI.vbproj.CoreCompileInputs.cache
+C:\Users\arjun\source\repos\ARRAY MULTI DIMENSI\ARRAY MULTI DIMENSI\bin\Debug\ARRAY MULTI DIMENSI.exe.config
+C:\Users\arjun\source\repos\ARRAY MULTI DIMENSI\ARRAY MULTI DIMENSI\bin\Debug\ARRAY MULTI DIMENSI.exe
+C:\Users\arjun\source\repos\ARRAY MULTI DIMENSI\ARRAY MULTI DIMENSI\bin\Debug\ARRAY MULTI DIMENSI.pdb
+C:\Users\arjun\source\repos\ARRAY MULTI DIMENSI\ARRAY MULTI DIMENSI\bin\Debug\ARRAY MULTI DIMENSI.xml
+C:\Users\arjun\source\repos\ARRAY MULTI DIMENSI\ARRAY MULTI DIMENSI\obj\Debug\ARRAY MULTI DIMENSI.exe
+C:\Users\arjun\source\repos\ARRAY MULTI DIMENSI\ARRAY MULTI DIMENSI\obj\Debug\ARRAY MULTI DIMENSI.xml
+C:\Users\arjun\source\repos\ARRAY MULTI DIMENSI\ARRAY MULTI DIMENSI\obj\Debug\ARRAY MULTI DIMENSI.pdb
